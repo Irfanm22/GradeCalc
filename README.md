@@ -1,5 +1,5 @@
 # GradeCalc
-Interaktiver Notenrechner für Schüler\*innen und Stundent\*innen
+Interaktiver Notenrechner für Schüler\*innen und Stundent\*innen<br>
 Ein Python-Projekt der FHNW (Modul Grundlagen Programmierung)
 
 ## 🚀 Funktionen 
